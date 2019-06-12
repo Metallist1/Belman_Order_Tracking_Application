@@ -2,11 +2,14 @@
 
 Exam project for 2nd semester at Business Academy Southwest in cooperation with Belman A/S.
 
-The project was made in collaboration with Grzegorz Charyszczak and David	Kalatzis.
+The project was made in collaboration with Grzegorz Charyszczak and David Kalatzis.
 
 Responsabilites in the project: 
+
 GUI and animations - David	Kalatzis
+
 Structure and design - Grzegorz Charyszczak
+
 Database and back end logic - Nedas Surkus
 
 Time for completion: 5 weeks
